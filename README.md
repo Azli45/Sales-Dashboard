@@ -36,10 +36,6 @@ This project is a `.pbix` Power BI report that visualizes sales data,helping sta
 <img width="1208" height="681" alt="Screenshot 2026-09-17 111729" src="https://github.com/user-attachments/assets/5dd6e504-d85b-464d-94a8-2b0eae05f53e" />
 
 
-```
-![Dashboard Preview](screenshots/dashboard-overview.png)
-```
-
 ## 📈 Key Insights
 Revenue visibility — Stakeholders can't assess business health quickly, so the dashboard surfaces Total Sales, Order Count, and Customer Count in real time.
 
