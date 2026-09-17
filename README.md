@@ -4,7 +4,7 @@ An interactive Power BI dashboard for analyzing sales performance — built to s
 
 ## 📊 Overview
 
-This project is a `.pbix` Power BI report that visualizes sales data, helping stakeholders track performance across key dimensions (e.g., time, region, product, and sales rep).
+This project is a `.pbix` Power BI report that visualizes sales data,helping stakeholders track performance across key dimensions (e.g., time, region, product, and sales rep).
 
 ## 🛠️ Tools & Tech
 
