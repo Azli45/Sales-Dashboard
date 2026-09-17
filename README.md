@@ -41,8 +41,11 @@ This project is a `.pbix` Power BI report that visualizes sales data, helping st
 ```
 
 ## 📈 Key Insights
-
-*(Optional: 2–3 bullet points on what the dashboard reveals — e.g., "Identified a 15% YoY sales dip in Region X" — great for portfolio/interview talking points)*
+Revenue visibility — Stakeholders can't assess business health quickly, so the dashboard surfaces Total Sales, Order Count, and Customer Count in real time.
+Product performance — It's unclear which products/categories drive revenue, so the bar and donut charts break down sales by product and category.
+Seasonality & trends — Growth patterns and seasonal dips are hard to spot in raw data, so the dashboard tracks sales trends by Year/Quarter/Month/Day.
+Customer segmentation — High-value customer segments aren't obvious, so the pie chart breaks down customers by score and state.
+Self-service reporting — Non-technical users depend on analysts for basic answers, so Country/Category/Date filters let anyone explore the data themselves.
 
 ## 👤 Author
 
